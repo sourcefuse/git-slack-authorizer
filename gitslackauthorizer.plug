@@ -1,0 +1,10 @@
+[Core]
+name = GitSlackAuthorizer
+module = gitslackauthorizer
+
+[Documentation]
+description = Give access to github repos
+
+[Python]
+version = 3
+
